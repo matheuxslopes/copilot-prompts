@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>CARREIRA COM IA</h1>
   </p>
 </div>
 
@@ -31,6 +31,13 @@
   <img width="498" height="598" alt="image" src="https://github.com/user-attachments/assets/c6d3fe47-876b-4967-b30a-6696e0b11a75" />
   <img width="796" height="669" alt="image" src="https://github.com/user-attachments/assets/d4014c38-24e0-4f74-b5ac-18b0095328f1" />
   <img width="828" height="618" alt="image" src="https://github.com/user-attachments/assets/67cfc99d-cc58-4f1e-9a94-27a7b92017a6" />
+
+  ## 💻 🧠 IA Entrevistador: Simulador Inteligente de Entrevistas
+
+  <img width="775" height="509" alt="image" src="https://github.com/user-attachments/assets/9b216182-5837-4818-af06-a5ab36fa8a35" />
+  <img width="749" height="500" alt="image" src="https://github.com/user-attachments/assets/cec96795-feb4-45a4-89f6-fa412f295e5b" />
+
+
 
 
 
